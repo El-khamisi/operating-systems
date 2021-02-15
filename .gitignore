@@ -1,0 +1,6 @@
+.swp
+.idea
+/ps
+CMakeLists.txt
+/cmake-build-debug
+*.zip
