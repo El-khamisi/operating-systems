@@ -1,0 +1,3 @@
+/home/el5amisi/Documents/OS/OS_Hands-onLab/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/el5amisi/Documents/OS/OS_Hands-onLab/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/el5amisi/Documents/OS/OS_Hands-onLab/untitled/cmake-build-debug/CMakeFiles/untitled.dir
